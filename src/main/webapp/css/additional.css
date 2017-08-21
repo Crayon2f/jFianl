@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+div.error-div {
+    margin-top: 100px;
+    text-align: center;
+}
+
+div.button-div {
+    margin-top: 30px;
+    text-align: center;
+}
+
+button.go-back {
+    margin: 0px 6px;
+    background-color: #3bb4f2;
+    color: #fff;
+    font-size: 14px;
+    padding: 7px 20px 7px 20px;
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 4px
+}
+
+button.go-back:hover {
+    background-color: #0e93d7;
+}
+
+button.go-home {
+    margin: 0px 6px;
+    background-color: #fff;
+    color: inherit;
+    border: 1px solid #BDC4C9;
+    font-size: 14px;
+    padding: 7px 20px 7px 20px;
+    border-radius: 3px;
+}
+
+button.go-home:hover {
+    background-color: #BDC4C9;
+}
